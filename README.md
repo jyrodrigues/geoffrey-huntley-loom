@@ -5,11 +5,6 @@
 
 # Loom
 
-> [!CAUTION]
-> **Loom is a research project. If your name is not Geoffrey Huntley then do not use.**
->
-> This software is experimental, unstable, and under active development. APIs will change without notice. Features may be incomplete or broken. There is no support, no documentation guarantees, and no warranty of any kind. Use at your own risk.
-
 ## Overview
 
 Loom is an AI-powered coding agent built in Rust. It provides a REPL interface for interacting with LLM-powered agents that can execute tools to perform file system operations, code analysis, and other development tasks.
